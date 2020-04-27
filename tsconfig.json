@@ -6,6 +6,9 @@
         "esModuleInterop": true,
         "allowJs": true
     },
+    "rules": {
+        "semicolon": true
+    },
     "exclude": [
         "node_modules"
     ]
